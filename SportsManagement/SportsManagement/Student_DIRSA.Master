@@ -33,7 +33,7 @@
                 border-radius: 10px;">
                 <tr>
                     <td>
-                        <a href="#" style="color:ThreeDLightShadow;text-decoration:none;">Home</a>
+                        <a href="StudentHome_DIRSA.aspx" style="color:ThreeDLightShadow;text-decoration:none;">Home</a>
                     </td>
                     <td>
                         <a href="SelectedItemsStudent_DIRSA.aspx" style="text-decoration:none; color:ThreeDLightShadow">View Items</a>

@@ -39,19 +39,19 @@
                   <table style="border-color: inherit; border-width: 5px; text-align: center; border-style: solid;
                 border-radius: 10px;" class="auto-style2">
                 <tr>
-                    <td class="auto-style3">
-                        <a href="#" style="color:ThreeDLightShadow;text-decoration:none;">Home</a>
+                    <td>
+                        <a href="ManagementHome_DIRSA.aspx" style="color:ThreeDLightShadow;text-decoration:none;">Home</a>
                     </td>
-                    <td class="auto-style3">
+                    <td>
                         <a href="ListItems_DIRSA.aspx" style="text-decoration:none; color:ThreeDLightShadow">View Items</a>
                     </td>
-                    <td class="auto-style3">
+                    <td>
                         <a href="TakenItems_DIRSA.aspx" style="text-decoration:none;color:ThreeDLightShadow">Selected Items</a>
                     </td>
-                    <td class="auto-style3">
+                    <td>
                         <a href="Gallery_DIRSA.aspx" style="text-decoration:none;color:ThreeDLightShadow">Gallery</a>
                     </td>
-                    <td class="auto-style3">
+                    <td>
                     <asp:LinkButton ID="link" runat="server" Text="Logout" style="text-decoration:none;color:ThreeDLightShadow" OnClick="link_Click"></asp:LinkButton>
                 
                     </td>

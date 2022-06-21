@@ -72,7 +72,7 @@
                         <%#Eval("ItemCount") %>
                     </td>
                     <td>
-                        <asp:ImageButton ID="btndel" runat="server" ImageUrl="images/del.png" Text="Delete"
+                        <asp:ImageButton ID="btndel" runat="server" ImageUrl="~/images/del.png" Text="Delete"
                             Width=20px CommandArgument='<%#Eval("id") %>'  Height=20px OnClick="btndel_Click" />
                     </td>
                 </tr>
